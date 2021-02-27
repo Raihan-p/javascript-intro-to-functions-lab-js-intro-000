@@ -12,13 +12,13 @@ console.log (string.toLowerCase ())
 }
 function sayHiToGrandma (string) {
   var cant = "I can't hear you!"
-  var yes = "yes, indeed!"
+  var yes = "YES, INDEED!"
   var love = "I love you, too!"
-  if (string.tolowercase sayHiToGrandma === sayhitograndma) {
+  if (string.tolowercase (string) === string) {
     return cant;
-   else if (string.toUpperCase sayHiToGrandma === SAYHITOGRANDMA) {
+   else if (string.toUpperCase (string) === string) {
     return yes;
-  else if ("I love you Grandma." === sayHiToGrandma) {
+  else if ("I love you Grandma." === string) {
   return love
   }
 }
