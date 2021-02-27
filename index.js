@@ -16,10 +16,11 @@ function sayHiToGrandma (string) {
   var love = "I love you, too!";
   if (string.tolowercase (string) === string) {
     return cant;
-  }
+}
   else if (string.toUpperCase (string) === string) {
     return yes;
-  }
+}
   else if ("I love you Grandma." === string) {
   return love
-  }
+}
+}
