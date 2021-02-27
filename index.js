@@ -13,7 +13,7 @@ console.log (string.toLowerCase ())
 function sayHiToGrandma (string) {
   var cant = "I can't hear you!";
   var yes = "YES INDEED!";
-  var love = "I love you, too!";
+  var love = "I love you, too";
   if (string.toLowerCase (string) === string) {
     return cant;
 }
